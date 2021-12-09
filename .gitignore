@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+# Costum files or folders
+/.idea
+/design_pattern.iml
